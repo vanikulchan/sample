@@ -14,7 +14,7 @@ Test Teardown
 Library           Rammbock
 Resource          ../../Common/Keywords/Common_Keywords.txt
 Resource          ../../../Common/Keywords/COMMON_nwam_keywords.txt
-Resource          ../../../Common/Resource/NWAM_ICD_Timer.txt
+
 
 *** Variables ***
 ${Factory_Default_IP}    192.168.10.1
